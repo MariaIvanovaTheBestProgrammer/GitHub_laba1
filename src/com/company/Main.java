@@ -9,5 +9,6 @@ public class Main {
         System.out.println(singleton.value);
         System.out.println(anotherSingleton.value);
         System.out.println();
+        System.out.println("Hello World!");
     }
 }
