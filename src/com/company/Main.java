@@ -8,5 +8,6 @@ public class Main {
         Singleton anotherSingleton = Singleton.getInstance("BAR");
         System.out.println(singleton.value);
         System.out.println(anotherSingleton.value);
+        System.out.println("Hello World!");
     }
 }
